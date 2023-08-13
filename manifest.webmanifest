@@ -1,0 +1,84 @@
+{
+  "name": "Lights off",
+  "short_name": "Lights off",
+  "id": "com.example.firstperson3d",
+  "description": "A small horror game full of puzzles.\nTurn your flashlight on and off to progress.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "20x20"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "29x29"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "36x36"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "40x40"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "48x48"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "50x50"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "57x57"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "58x58"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "60x60"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "72x72"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "76x76"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "80x80"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "87x87"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "96x96"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "100x100"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "114x114"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "120x120"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "144x144"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "152x152"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "167x167"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "180x180"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "192x192"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "512x512"
+      },{
+        "src": "Capture d’écran 2023-08-13 à 13.37.56-overlay (1).png",
+        "sizes": "1024x1024"
+      }]
+}
